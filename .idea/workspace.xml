@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d295fc09-6ead-4ed3-ba07-52daa4b62cff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <!-- <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" /> -->
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +43,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Projekt-Arknights" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Projekt-Arknights" type="462c0819:PsiDirectoryNode" />
+              <item name="TimeTable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TimeTable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
